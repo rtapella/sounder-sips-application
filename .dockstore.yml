@@ -1,4 +1,4 @@
-version: 1.2
+version: 1.2R
 workflows:
   - name: "sounder_sips_l1a"
     subclass: CWL
